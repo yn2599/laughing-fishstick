@@ -17,5 +17,5 @@ styles, index.html, and JavaScript.
 <br />
 
 <p align="center">
-<img align="center" src="imgage/Captura de Tela 2025-08-19 às 18.54.36.png" alt="compra"/>
+<img align="center" src="image/Captura de Tela 2025-08-19 às 18.54.36.png" alt="compra"/>
 </p>
